@@ -1,14 +1,24 @@
 [![Header](https://github.com/XXXUDI/XXXUDI/blob/main/resources/Glitch1.png)](https://www.youtube.com/@SleepyM1racle)
 
-## Languages and tools
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=white)
+## Welcome to my GitHub profile!
+- **About me:** I`am Java Developer! I'm currently a computer science student at Politechnika Częstohowa (Poland)
+- **Current learning:** Now I am studying microservice architecture of applications using Kafka, Spring, and also application deployment using docker & k8s. 
 
+--- 
+
+## How to reach me? 
+
+If you have questions, feedback ro just contact with me, you can reach with me via email, or telegram.
+
+- **Email:** djemmitop@gmail.com
+- **Telegram:** @FxAlex46
+
+*Contributions and feedback are welcome*
 
 ### Languages and tools I'm familiar with:
 
-<details>
-  <summary><h4>Show Technologies: </h4></summary>
+> <details>
+> <summary><h4>Show Technologies: </h4></summary>
 
 > <h4>Languages:</h4>
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=white)
