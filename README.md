@@ -17,8 +17,8 @@ If you have questions, feedback ro just contact with me, you can reach with me v
 
 ### Languages and tools I'm familiar with:
 
-> <details>
-> <summary><h4>Show Technologies: </h4></summary>
+<details>
+<summary><h4>Show Technologies: </h4></summary>
 
 > <h4>Languages:</h4>
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=white)
@@ -47,5 +47,5 @@ If you have questions, feedback ro just contact with me, you can reach with me v
 ![H2_DATABASE](https://img.shields.io/badge/-H2_DATABASE-090909?style=for-the-badge&logo=html&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-090909?style=for-the-badge&logo=html&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-Mongo_DB-090909?style=for-the-badge&logo=html&logoColor=white)
-> </details>
+</details>
 
