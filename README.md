@@ -8,7 +8,7 @@
 
 ## How to reach me? 
 
-If you have questions, feedback ro just contact with me, you can reach with me via email, or telegram.
+If you have questions, feedback or just contact with me, you can reach with me via email, or telegram.
 
 - **Email:** djemmitop@gmail.com
 - **Telegram:** @FxAlex46
